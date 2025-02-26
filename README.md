@@ -1,6 +1,6 @@
 ## 👋 Hey, I’m P. S. Serrato
 I’m on a mission to **decode marketing trends** and **perfect the art of asking questions**—using data, AI, and a touch of curiosity.
-🌐 [serrato.us](https://serrato.us) | 🐦 [Twitter](https://twitter.com/yourhandle) | 📝 [Substack](https://yoursubstack) | 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+🌐 [serrato.us](https://serrato.us)
 
 Head of Intelligence @ [Iron Light](https://ironlight.com) | Advocate for data-informed decentralization
 
