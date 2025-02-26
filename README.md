@@ -28,9 +28,10 @@ Check out my [Google Drive App Scripts](https://github.com/sserrato/gdrive) for 
 ---
 
 ### Projects I’m Proud Of
-- **[Survey-Toolkit](https://github.com/sserrato/survey-toolkit)**: Email traffic analytics system
-- **[Lanikea](https://github.com/sserrato/lanikea)**: Social analytics platform (MERN + D3.js)
 - **[GDrive Automation](https://github.com/sserrato/gdrive)**: Maps data integration
+- **[Email-Analytics-Toolkit](https://github.com/sserrato/survey-toolkit)**: Email traffic analytics system
+- **[Lanikea](https://github.com/sserrato/lanikea)**: Social analytics platform (MERN + D3.js)
+
 
 
 ---
@@ -39,13 +40,13 @@ Check out my [Google Drive App Scripts](https://github.com/sserrato/gdrive) for 
 - **Data**: AWS (Redshift, Glue, S3), ETL pipelines, sentiment modeling
 - **Dev**: Python, Rails, MERN stack, PostgreSQL
 - **Interests**: Blockchain, urban analytics, data ethics
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sserrato&show_icons=true&theme=radical)
+
 
 ---
 
 ### Community & Vibes
 - Organizing with: Liberty on the Rocks, Techqueria, Hack for L.A.
 - Obsessed with: Cryptocurrency, civil liberties, and city data
-- Listening to: [LastFM](https://last.fm/user/yourprofile)
+- Listening to: [LastFM](https://www.last.fm/user/psergio)
 
-Let’s build a decentralized, data-smart future—hit me up!
+Let’s build a decentralized, data-smart future!
