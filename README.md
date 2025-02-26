@@ -1,7 +1,51 @@
-<h3>✨ Hello there ✨ </h3>
-<p>I'm P. S. Serrato.  <a href="https://www.serrato.us">Website</a> •
-  <a href="https://twitter.com/productplusdata">Twitter</a>
-</p>
+## 👋 Hey, I’m P. S. Serrato
+I’m on a mission to **decode marketing trends** and **perfect the art of asking questions**—using data, AI, and a touch of curiosity.
+🌐 [serrato.us](https://serrato.us) | 🐦 [Twitter](https://twitter.com/yourhandle) | 📝 [Substack](https://yoursubstack) | 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
 
-> “The unfed mind devours itself.”
->									― Gore Vidal 
+Head of Intelligence @ [Iron Light](https://ironlight.com) | Advocate for data-informed decentralization
+
+---
+
+### What I’m About
+- 📊 **Marketing Analytics**: Sentiment modeling, audience segmentation, and predictive insights
+- 🗳️ **Opinion Research**: Designing systems to uncover what people *really* think
+- 🏙️ **City Living**: Urban analytics and quantified self enthusiast
+- 🌍 **Decentralization**: Building tools for a freer, data-driven world
+
+> "The unfed mind devours itself." – Gore Vidal
+
+---
+
+### What I Do
+I lead data intelligence and AI strategy, juggling:
+- **AWS Infrastructure**: Redshift, Glue ETL, S3 pipelines
+- **AI/ML**: Predictive modeling and content generation
+- **Data Engineering**: Cross-functional analytics and automation
+- **Full-Stack Dev**: From cybersecurity to MERN-stack apps
+
+Check out my [Google Drive App Scripts](https://github.com/sserrato/gdrive) for automating maps data into spreadsheets!
+
+---
+
+### Projects I’m Proud Of
+- **[Survey-Toolkit](https://github.com/sserrato/survey-toolkit)**: Email traffic analytics system
+- **[Lanikea](https://github.com/sserrato/lanikea)**: Social analytics platform (MERN + D3.js)
+- **[GDrive Automation](https://github.com/sserrato/gdrive)**: Maps data integration
+
+
+---
+
+### Tech Stack
+- **Data**: AWS (Redshift, Glue, S3), ETL pipelines, sentiment modeling
+- **Dev**: Python, Rails, MERN stack, PostgreSQL
+- **Interests**: Blockchain, urban analytics, data ethics
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sserrato&show_icons=true&theme=radical)
+
+---
+
+### Community & Vibes
+- Organizing with: Liberty on the Rocks, Techqueria, Hack for L.A.
+- Obsessed with: Cryptocurrency, civil liberties, and city data
+- Listening to: [LastFM](https://last.fm/user/yourprofile)
+
+Let’s build a decentralized, data-smart future—hit me up!
