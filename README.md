@@ -29,8 +29,8 @@ Check out my [Google Drive App Scripts](https://github.com/sserrato/gdrive) for 
 
 ### Projects I’m Proud Of
 - **[GDrive Automation](https://github.com/sserrato/gdrive)**: Maps data integration
-- **[Email-Analytics-Toolkit](https://github.com/sserrato/survey-toolkit)**: Email traffic analytics system
-- **[Lanikea](https://github.com/sserrato/lanikea)**: Social analytics platform (MERN + D3.js)
+- **[Email-Analytics-Toolkit](#)**: Email traffic analytics system
+- **[Lanikea](#)**: Social analytics platform (MERN + D3.js)
 
 
 
@@ -45,8 +45,9 @@ Check out my [Google Drive App Scripts](https://github.com/sserrato/gdrive) for 
 ---
 
 ### Community & Vibes
-- Organizing with: Liberty on the Rocks, Techqueria, Hack for L.A.
-- Obsessed with: Cryptocurrency, civil liberties, and city data
+- Community Organizing with: Liberty on the Rocks, Techqueria, Hack for L.A.
+- Reading, and learning about: Cryptocurrency, civil liberties, and city data
 - Listening to: [LastFM](https://www.last.fm/user/psergio)
+- [Data populism mood board](https://www.cosmos.so/serrato/data-populism)
 
-Let’s build a decentralized, data-smart future!
+
