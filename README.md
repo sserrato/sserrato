@@ -1,16 +1,8 @@
-## 👋 Hey, I’m P. S. Serrato
-I’m on a mission to **decode marketing trends** and **perfect the art of asking questions**—using data, AI, and a touch of curiosity.
+## I’m P. S. Serrato
 🌐 [serrato.us](https://serrato.us)
 
 Head of Intelligence @ [Iron Light](https://ironlight.com) | Advocate for data-informed decentralization
 
----
-
-### What I’m About
-- 📊 **Marketing Analytics**: Sentiment modeling, audience segmentation, and predictive insights
-- 🗳️ **Opinion Research**: Designing systems to uncover what people *really* think
-- 🏙️ **City Living**: Urban analytics and quantified self enthusiast
-- 🌍 **Decentralization**: Building tools for a freer, data-driven world
 
 > "The unfed mind devours itself." – Gore Vidal
 
